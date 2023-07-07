@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=김수진&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=xooxpeak)](https://github.com/xooxpeak)
 
@@ -11,7 +11,7 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-### Hi there 👋
+### 안녕하세요! 백엔드 개발자를 꿈꾸는 xooxpeak 입니다. 👋
 ---
 
 *
