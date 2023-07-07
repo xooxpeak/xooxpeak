@@ -14,5 +14,17 @@
 ### 안녕하세요! 백엔드 개발자를 꿈꾸는 xooxpeak 입니다. 👋
 ---
 
-*
+
+높은 곳에서 발게 빛날 백엔드 개발자를 꿈꾸며 열심히 공부하고 있습니다.
+
+---
+
+
+###Contact Me
+
+Phone : 010 - 0000 - 0000 
+Email : xooxpeak@gmail.com
+Github : https://github.com/xooxpeak
+Blog : https://xooxpeak.tistory.com
+
 
