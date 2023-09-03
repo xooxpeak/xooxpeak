@@ -1,22 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ffdf&height=300&section=header&text=수진의%20github&fontSize=90)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=xooxpeak)](https://github.com/xooxpeak)
+####  :wave: Welcome my github profile !
+
+<br/>
+<br/>
+<br/>
+
+####  :clipboard: Once I've Used
+
+<br/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+
+<br/>
+<br/>
+<br/>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xooxpeak)](https://github.com/xooxpeak/github-readme-stats)
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=xooxpeak)](https://github.com/xooxpeak)
 
-### 안녕하세요! 백엔드 개발자를 꿈꾸는 xooxpeak 입니다. 👋
+
+
+<br>
+<br>
+
+
+### 안녕하세요! 도약을 위한 추락중인 개발자 xooxpeak 입니다. 👋
 ---
 
 
-높은 곳에서 밝게 빛날 백엔드 개발자를 꿈꾸며 열심히 공부하고 있습니다.
-
+위대한 도약을 위해 한없이 추락하는 과정을 담고자 합니다.
 
 
 ---
@@ -24,7 +50,7 @@
 
 
 
-###Contact Me
+### Contact Me
 
 
 
@@ -34,3 +60,5 @@ Github : https://github.com/xooxpeak <br>
 Blog : https://xooxpeak.tistory.com <br>
 
 
+
+</div>
