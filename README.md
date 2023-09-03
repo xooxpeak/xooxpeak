@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ffdf&height=300&section=header&text=수진의%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ffdf&height=200&section=header&text=Sujin%20Kim&fontSize=90)
 
 ####  :wave: Welcome my github profile !
 
@@ -33,9 +33,10 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=xooxpeak)](https://github.com/xooxpeak)
 
 
+<br/>
+<br/>
+<br/>
 
-<br>
-<br>
 
 
 ### 안녕하세요! 도약을 위한 추락중인 개발자 xooxpeak 입니다. 👋
@@ -46,6 +47,9 @@
 
 
 ---
+
+<br/>
+<br/>
 
 
 
