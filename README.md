@@ -61,7 +61,6 @@
 Phone : 010 - 0000 - 0000 <br>
 Email : xooxpeak@gmail.com <br>
 Github : https://github.com/xooxpeak <br>
-Blog : https://xooxpeak.tistory.com <br>
 
 
 
