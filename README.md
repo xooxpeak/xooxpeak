@@ -39,11 +39,11 @@
 
 
 
-### 안녕하세요! 도약을 위한 추락중인 개발자 xooxpeak 입니다. 👋
+
 ---
 
 
-위대한 도약을 위해 한없이 추락하는 과정을 담고자 합니다.
+
 
 
 ---
@@ -58,10 +58,10 @@
 
 
 
-Phone : 010 - 0000 - 0000 <br>
+Phone : 010 - 2934 - 2600 <br>
 Email : xooxpeak@gmail.com <br>
 Github : https://github.com/xooxpeak <br>
-
+blog : https://xooxpeak.tistory.com/
 
 
 </div>
